@@ -1,0 +1,44 @@
+body {
+    background-color: #2e1ea4;
+    text-align: center;
+    color: white;
+    padding: 100px;
+    border: 10px groove #ebebeb;
+  
+    font-family: 'Arial', cursive;
+}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Arial', cursive;
+}
+
+button {
+    background-color: red;
+   
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Lucia Console';
+}
+img{
+    border: 5px solid yellow;
+    width:200px;
+    height:200px;
+}
+
+
+.pop-icon {
+    width: 350px;
+    border:none;
+}
